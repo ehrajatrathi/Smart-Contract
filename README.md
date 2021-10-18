@@ -12,11 +12,11 @@ Python code for deploying &amp; interacting with smart contract.
 
 ## Content
 
-- [transaction.py](transaction.py)
+- [trans.py](transa.py)
 	
     Submit student ID / token / hash (first argument) to the contract
     
-- [deploy.py](deploy.py)
+- [dep.py](dep.py)
 
 	Deploy a new contract (hello world) to ethereum testnet
 
